@@ -1,9 +1,11 @@
 OmniTradeX: AI-Powered Stock Market Analysis
 
 📌 Overview
+
 OmniTradeX is a cutting-edge AI-driven stock market application that provides real-time insights, predictive analytics, and intelligent decision-making for traders and investors.
 
 🔥 Features
+
 ✔ Live Stock Data Fetching – Retrieves real-time prices using free APIs
 
 ✔ AI-Powered Predictions – Uses machine learning models to predict trends
@@ -17,11 +19,17 @@ OmniTradeX is a cutting-edge AI-driven stock market application that provides re
 ✔ User-Friendly Interface – Customizable and intuitive UI
 
 🔧 Technologies Used
+
 🛠 Backend: Python (Flask/FastAPI)
+
 📈 Data Processing: Pandas, NumPy, Scikit-learn
+
 🤖 Machine Learning: TensorFlow, PyTorch
+
 📊 Visualization: Matplotlib, Plotly
+
 📡 APIs: Yahoo Finance, Alpha Vantage (Free Tier)
+
 🖥 Frontend (Optional): React, Streamlit
 
 🚀 Installation & Setup
