@@ -5,10 +5,15 @@ OmniTradeX is a cutting-edge AI-driven stock market application that provides re
 
 🔥 Features
 ✔ Live Stock Data Fetching – Retrieves real-time prices using free APIs
+
 ✔ AI-Powered Predictions – Uses machine learning models to predict trends
+
 ✔ Historical Trend Analysis – Identifies patterns in stock movements
+
 ✔ Portfolio Tracker – Helps monitor asset performance
+
 ✔ Market Visualization – Interactive dashboards for insights
+
 ✔ User-Friendly Interface – Customizable and intuitive UI
 
 🔧 Technologies Used
